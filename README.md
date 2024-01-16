@@ -1,15 +1,15 @@
 <h1 align="center">Hello there, I'm Vikhyat Gupta</h1>
-<h3 align="center">A passionate fullstack developer from India</h3>
+<h3 align="center">An enthusiastic and self-motivated 17-year-old Fullstack Developer from the beautiful city of Chandigarh, India</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 Currently immersed in learning **React**
 
-- 👨‍💻 All of my projects are available at [https://vikhyatz.github.io/](https://vikhyatz.github.io/)
+- 👨‍💻 Explore my projects at [https://vikhyatz.github.io/](https://vikhyatz.github.io/)
 
-- 💬 Ask me about **node js, express,python**
+- 💬 Let's chat about **Node.js, Express, Python**
 
-- 📫 How to reach me **vikhyatgupta61@gmail.com**
+- 📫 Reach out to me at **vikhyatgupta61@gmail.com**
 
-- ⚡ Fun fact **I'm not really working on this**
+- ⚡ Fun fact: **Passionate about creating fullstack clones and building unique projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
