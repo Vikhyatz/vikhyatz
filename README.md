@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **vikhyatgupta61@gmail.com**
 
-- ⚡ Fun fact **not really working on this**
+- ⚡ Fun fact **I'm not really working on this**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
