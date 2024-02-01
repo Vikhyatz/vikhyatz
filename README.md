@@ -9,7 +9,7 @@
 
 - 📫 Reach out to me at **vikhyatgupta61@gmail.com**
 
-- ⚡ Fun fact: **Passionate about creating fullstack clones and building unique projects**
+- ⚡ Fact: **Passionate about creating fullstack clones and building unique projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
